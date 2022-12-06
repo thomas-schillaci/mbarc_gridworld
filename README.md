@@ -1,6 +1,6 @@
 # MBARC (Gridworld)
 
-Official repository of the *Model-Based Aware Reward Classification* (MBARC) thesis (Gridworld version).
+Official repository of the [Model-Based Aware Reward Classification](http://hdl.handle.net/1853/66473) (MBARC) thesis (Gridworld version).
 
 - [Installation](#installation)
 - [How to use](#how-to-use)
